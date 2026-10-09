@@ -17,8 +17,7 @@ Submit a link to a git hub repository or other public facing git remote repo tha
 2. gensim's word2vec google news model
 
 ##### Directory
-`data 2/eng-fra.txt`: this assignment's translation dataset </br></br>
-`data 2/word2vec_download.md`: output of downloaded word2vec google-news dataset </br></br>
+`eng-fra.txt`: this assignment's translation dataset </br></br>
 `A6_RNN.ipynb`: all code implementation </br></br>
 `outputs/baseline_output.md`: baseline output after training and evaluation using the tutorial's code, unchanged. This instance uses the encoder and decoder. </br></br>
 `outputs/attention_output.md`: baseline output after training and evaluation using the tutorial's code, unchanged. This instance uses the encoder and attention decoder. </br></br>
