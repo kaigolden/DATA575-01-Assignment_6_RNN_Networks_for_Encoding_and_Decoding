@@ -18,7 +18,7 @@ Submit a link to a git hub repository or other public facing git remote repo tha
 
 ##### Directory
 `eng-fra.txt`: this assignment's translation dataset </br></br>
-`A6_RNN.ipynb`: all code implementation </br></br>
+`A6_RNN.ipynb`: all code implementation and discussion of 3 experiments' results at the end of the notebook.</br></br>
 `outputs/baseline_output.md`: baseline output after training and evaluation using the tutorial's code, unchanged. This instance uses the encoder and decoder. </br></br>
 `outputs/attention_output.md`: baseline output after training and evaluation using the tutorial's code, unchanged. This instance uses the encoder and attention decoder. </br></br>
 `outputs/decoder_pretrained_embed_output.md`: baseline output after the decoder's embeddings were replaced with word2vec pretrained embeddings. This instance uses the encoder and decoder with the word2vec embeddings. </br></br>
